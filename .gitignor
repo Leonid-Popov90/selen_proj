@@ -1,0 +1,13 @@
+# Игнорировать файлы кэша
+*.cache
+
+# Игнорировать папки кэша
+cache/
+*/cache/
+
+# Игнорировать Python pycache и .pyc файлы
+pycache/
+*.pyc
+
+# Игнорировать pytest cache
+.pytest_cache/
